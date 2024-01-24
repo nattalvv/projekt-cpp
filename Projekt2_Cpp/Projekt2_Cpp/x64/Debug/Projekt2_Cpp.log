@@ -1,0 +1,22 @@
+﻿  projnew.cpp
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(33,17): warning C4129: "P": nierozpoznany znak sekwencji ucieczki
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(36,21): warning C4129: "M": nierozpoznany znak sekwencji ucieczki
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(41,17): warning C4129: "P": nierozpoznany znak sekwencji ucieczki
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(44,21): warning C4129: "M": nierozpoznany znak sekwencji ucieczki
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(54,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(54,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(54,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(54,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(58,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(58,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(58,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(58,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(62,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(62,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(62,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(62,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(66,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(66,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(66,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\DELL\Downloads\projekt2cpp\projnew.cpp(66,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Projekt2_Cpp.vcxproj -> C:\Users\DELL\Downloads\Projekt2_Cpp\x64\Debug\Projekt2_Cpp.exe
